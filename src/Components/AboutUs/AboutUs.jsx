@@ -57,6 +57,18 @@ const AboutUs = () => {
 
         <div className="grid-item-about-us">
           <div className="engineer-and-decagon-image">
+            <img className="engineer-image" src="../src/assets/icons/Ofofonono.png"/>
+          </div>
+          <img className='decagon-avatar-about-us'
+               src='https://decagon.institute/static/media/decagon.18e1e74149bf346e03ceb8c52e3b3177.svg'/>
+          <div className="about-us-h5">
+            <h5 className="engineer-name-about-us">Ofofonono Okpoho</h5>
+            <img src="../src/assets/icons/java.svg"/> <p>Software Engineer</p>
+          </div>
+        </div>
+
+        <div className="grid-item-about-us">
+          <div className="engineer-and-decagon-image">
             <img className="engineer-image" src="../src/assets/icons/bolu.png"/>
           </div>
           <img className='decagon-avatar-about-us'
